@@ -1,0 +1,10 @@
+# Downloaded datasets (FashionMNIST is fetched on first run)
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+
+# macOS
+.DS_Store
